@@ -1,0 +1,2 @@
+# scripts
+Learning bash scripts.
