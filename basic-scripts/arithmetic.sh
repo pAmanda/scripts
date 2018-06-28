@@ -36,7 +36,7 @@ a=$( expr 10 - 3)
 echo $a
 
 echo
-echo Basic arithmetic using double parentheses
+echo Basic arithmetic using double parentheses = metodo preferido
 
 a=$(( 4 + 5))
 echo $a
